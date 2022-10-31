@@ -2,7 +2,7 @@ public class Palindromes {
 	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		int n=343,summ=0;
 	 int temp =n;
 		while(n>0) {
